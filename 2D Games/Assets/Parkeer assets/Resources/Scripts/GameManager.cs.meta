@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0d52b163cfaf8bf419f73787eecd45fb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - imgStar1: {instanceID: 0}
+  - imgStar2: {instanceID: 0}
+  - imgStar3: {instanceID: 0}
+  - audPickup: {instanceID: 0}
+  - audWin: {instanceID: 0}
+  - audCrash: {fileID: 8300000, guid: edef10a884ccccb43a1a2dbc2eb53fa4, type: 3}
+  - PausePanel: {instanceID: 0}
+  - PlayingPanel: {instanceID: 0}
+  - WinPanel: {instanceID: 0}
+  - LosePanel: {instanceID: 0}
+  - SettingsPanel: {instanceID: 0}
+  - txtGraphics: {instanceID: 0}
+  - MuteText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
